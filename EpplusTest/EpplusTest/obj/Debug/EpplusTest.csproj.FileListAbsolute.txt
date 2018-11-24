@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\bin\Debug\EpplusTest.exe.config
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\bin\Debug\EpplusTest.exe
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\bin\Debug\EpplusTest.pdb
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\bin\Debug\EPPlus.dll
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\bin\Debug\EPPlus.xml
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\obj\Debug\EpplusTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\obj\Debug\EpplusTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\obj\Debug\EpplusTest.csproj.CopyComplete
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\obj\Debug\EpplusTest.exe
+C:\Users\Administrator\source\repos\EpplusTest\EpplusTest\obj\Debug\EpplusTest.pdb
